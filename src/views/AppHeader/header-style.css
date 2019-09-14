@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-field {
+  width: 50%;
+  height: 30px;
+  padding: 0 40px;
+  font-family: inherit;
+  font-size: 18px;
+  background: #fff url('../../assets/icons/search.png') 10px 50%/20px no-repeat;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 1px 5px 0 rgb(190, 190, 190);
+  outline: none;
+}
+
+.input-field:hover {
+  box-shadow: 0 1px 5px 0 rgb(165, 165, 165);
+}
+
+.input-field:focus {
+  box-shadow: 0 1px 5px 0 rgb(165, 165, 165), inset 0 0 1px 1px rgb(165, 165, 165);
+}

@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppFooter.render Should be render correctly 1`] = `"<footer class=\\"footer\\"><div class=\\"tool-tip invisible-tool\\">1</div><div class=\\"slider-container slider-hidden\\"><div class=\\"slider-item first-item slider-item-hidden\\">&lt;&lt;</div><div class=\\"slider-item prev-item slider-item-hidden\\">&lt;</div><div class=\\"slider-item current-item\\">1</div><div class=\\"slider-item next-item\\">&gt;</div></div></footer>"`;

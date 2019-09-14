@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 50px 1fr 40px;
+  grid-gap: 1%;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+  background-color: #F2F4F3;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
